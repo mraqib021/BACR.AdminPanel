@@ -1,0 +1,49 @@
+.customBtn {
+    border-radius: 30px;
+    border: none;
+    padding: 10px 50px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    background: rgba(0, 59, 78, 0.85);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10.2px);
+    -webkit-backdrop-filter: blur(10.2px);
+    border: 1px solid rgba(0, 59, 78, 0.28);
+}
+
+.chiller-div {
+    background: linear-gradient(65deg, #00456F 14.98%, rgba(68, 102, 153, 0.80) 107.7%);
+    /* background-color: #004271; */
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+
+}
+
+.chiller-div P {
+    text-align: center;
+    font-size: small !important;
+}
+
+.chiller-div h5 {
+    text-align: start !important;
+}
+
+.chiller-main {
+    /* background-color: red; */
+    margin-top: 30px;
+    width: 500px;
+    height: 400px;
+}
+
+.chiller-div img {
+    width: 45%;
+}
+
+.txt-div {
+    padding: 30px;
+}
